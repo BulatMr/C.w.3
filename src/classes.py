@@ -19,7 +19,7 @@ class Operation:
         """
         if self.operation_date:
             date = datetime.strptime(self.operation_date, '%Y-%m-%dT%H:%M:%S.%f')
-            return f"{date:%d.%m.%y}"
+            return f"{date:%d.%m.%Y}"
         else:
             return ""
 
