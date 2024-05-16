@@ -4,9 +4,9 @@
 [![Pytest](https://img.shields.io/badge/-Pytest-464646?style=flat-square&logo=Pytest)](https://docs.pytest.org/en/8.2.x/)
 
 ### Технологии: 
--Python 3.8.10
--Pytest 8.2.0
--Pytest-cov 5.0.0
+- Python 3.8.10 
+- Pytest 8.2.0 
+- Pytest-cov 5.0.0 
 
 ### Инструкция для развертывания проекта:
 ```bash
